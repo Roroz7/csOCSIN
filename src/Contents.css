@@ -1,0 +1,62 @@
+#box1{
+    display: flex;
+    gap: 30px;
+    padding: 3rem;
+    background-color: var(--bleu);
+}
+
+#photo{
+    height: 25rem;
+    border-radius: 24px;
+}
+
+#imgcsgo{
+    border-radius: 12px;
+    height: 20rem;
+}
+
+.artcard{
+    flex: 1;
+    background-color: #2f3f86;
+    color: white;
+    border-radius: 20px;
+    padding: 20px;
+    min-height: 250px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    box-shadow: 3px 10px 20px var(--orange);
+    
+}
+
+
+#artvj{
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 200;
+    font-style: normal;
+    font-size: 200%;
+}
+
+#artjtxt{
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 200;
+    font-style: normal;
+    font-size: 200%;
+}
+
+#box2{
+    display: flex;
+    gap: 30px;
+    padding: 3rem;
+    background-color: var(--bleu);
+    margin-top: 4rem;
+}
+
+#text {
+  font-family: "Bebas Neue", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 200%;
+}

@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#lien {
+    display: flex;
+    flex-direction: row;
+    
+}
+
+li{
+    margin:5px;
+}
+a:hover{
+    color: var(--bleu);
+}
+
+ul{
+    list-style-type: none;
+}
+
+nav{
+    background-color: var(--titrecouleur);
+    border-top-left-radius: 24px;
+    border-top-right-radius: 24px;
+}
+
+a{
+    font-family: Arial, Helvetica, sans-serif;
+}
